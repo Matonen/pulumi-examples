@@ -1,0 +1,4 @@
+config:
+  azure:environment: public
+  azure:location: WestEurope
+  iot:edgeVM.adminUsername: edgeVMAdmin

@@ -1,0 +1,3 @@
+name: iot
+runtime: nodejs
+description: Creates Azure IoT Hub and IoT Edge VM
